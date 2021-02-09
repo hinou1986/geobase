@@ -15,7 +15,6 @@ env:
   DOCKER_USER: gadockersvc
   V: 3.0.5
 
-
 jobs:
   release:
     runs-on: ubuntu-latest
